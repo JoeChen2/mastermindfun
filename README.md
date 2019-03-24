@@ -1,1 +1,1 @@
-ok this is epic
+help how do i write readme
